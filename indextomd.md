@@ -21,9 +21,9 @@ total accuracy is about 91% to 92%.
 After training and validating the model the loss/Accuracy vs \#samples
 can be plotted.
 
-![](./HTML/plot_acc.png)
+![](plot_acc.png)
 
-![](./HTML/plot_loss.png)
+![](plot_loss.png)
 
 From the plot above we can see some overfitting has occurred. This could
 happen because of many reasons. For example, if we have alot of
@@ -36,7 +36,7 @@ hyperparameters.
 
 the modle prediction chart: .
 
-![](./HTML/percent.png)
+![](percent.png)
 
 the hardes class to classify is shirt! and the reason could be the
 information gain from the pixels share same hyperparameters as other
@@ -48,10 +48,10 @@ set.
 lets look at some correct (Green) and incorrect (Red) predictions done
 by our model.
 
-![](ankle%20HTML/boot.png) ![](ankle%20HTML/boot2.png) ![](inc%20ankle%20HTML/boot.png)
+![](ankle%20boot.png) ![](ankle%20boot2.png) ![](inc%20ankle%20boot.png)
 ![](inc%20ankle%20boot2.png)
 
-![](HTML/bag.png) ![](HTML/bag2.png) ![](inc%20bag.png) ![](inc%20bag2.png)
+![](bag.png) ![](bag2.png) ![](inc%20bag.png) ![](inc%20bag2.png)
 
 ![](dress.png) ![](dress2.png) ![](inc%20dress.png)
 ![](inc%20dress2.png)
